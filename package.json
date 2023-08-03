@@ -1,0 +1,15 @@
+{
+  "name": "vechical",
+  "version": "1.0.0",
+  "main": "code.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepika",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
